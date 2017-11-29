@@ -75,11 +75,15 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Dark_Knight.jpg" />
     <Content Include="Emulator.png" />
     <Content Include="HtmlPage1.html" />
     <Content Include="jhLogo.png" />
+    <Content Include="m_logo.png" />
+    <Content Include="m_m.jpg" />
     <Content Include="Style.css" />
     <Content Include="SubscriptionPage.png" />
+    <Content Include="superman_returns.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
